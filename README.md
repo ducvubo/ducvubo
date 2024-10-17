@@ -3,8 +3,8 @@ Tổng quan
 
 # Reservation and ordering website.
   backend: https://github.com/ducvubo/bk-pg
-  feontend: +) https://github.com/ducvubo/restaurant-pg
-           +) https://github.com/ducvubo/fl-pg
+  frontend: +) https://github.com/ducvubo/restaurant-pg
+            +) https://github.com/ducvubo/fl-pg
 
 # Job recruitment website.
   link: https://github.com/ducvubo/web-job
