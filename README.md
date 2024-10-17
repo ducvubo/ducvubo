@@ -1,5 +1,5 @@
 # Overview
-Tổng quan
+Thank you for visiting, below is an overview of the projects I have worked on.
 
 # Reservation and ordering website.
   backend: https://github.com/ducvubo/bk-pg
