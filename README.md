@@ -2,10 +2,10 @@
 Thank you for visiting, below is an overview of the projects I have worked on.
 
 # Reservation and ordering website.
-  backend: https://github.com/ducvubo/bk-pg  
+  backend: https://github.com/ducvubo/backk-pg  
   frontend:  
   - https://github.com/ducvubo/restaurant-pg  
-  - https://github.com/ducvubo/fl-pg  
+  - https://github.com/ducvubo/user-pg  
 
 # Job recruitment website.
   link: https://github.com/ducvubo/web-job
